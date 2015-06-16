@@ -1,2 +1,1 @@
-I want to commit this.
-But I don't want to commit this.
+This is the first file.
